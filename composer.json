@@ -1,5 +1,5 @@
 {
-    "name": "sthombare/test-repman",
+    "name": "shree7342/test-repman",
     "autoload": {
         "psr-4": {
             "Sthombare\\TestRepman\\": "src/"
@@ -11,5 +11,7 @@
             "email": "shrikantthombare1991@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "sthombare/test-repman": "^1.0"
+    }
 }
