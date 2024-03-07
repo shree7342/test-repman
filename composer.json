@@ -1,0 +1,15 @@
+{
+    "name": "sthombare/test-repman",
+    "autoload": {
+        "psr-4": {
+            "Sthombare\\TestRepman\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shrikant",
+            "email": "shrikantthombare1991@gmail.com"
+        }
+    ],
+    "require": {}
+}
