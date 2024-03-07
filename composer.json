@@ -1,7 +1,8 @@
 {
     "name": "shree7342/test-repman",
+    "type": "library",
     "description": "This is test project package for repman",
-    "version": "1.0",
+    "version": "v1.0.0",
     "autoload": {
         "psr-4": {
             "Sthombare\\TestRepman\\": "src/"
